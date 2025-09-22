@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @phulmuhmmad
+# 👋 Hi, I’m @phulmuhmmad (Dilshaad Shaikh)
 
 💻 I'm a **Full-Stack Developer** passionate about building powerful solutions across **Android**, **Web**, **Desktop**, **iOS**, and **Linux** platforms.
 
