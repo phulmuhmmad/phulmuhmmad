@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @phulmuhmmad
-- 👀 I’m interested in programming, building Android apps, and Django-based school management systems.
-- 🌱 I’m currently learning Python, Kotlin, Django, and improving my knowledge in app development.
-- 💞️ I’m looking to collaborate on projects involving Android app development, web-based school management systems, and data efficiency tools.
-- 📫 How to reach me: You can reach me via GitHub or email at [Your Email].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new technologies and constantly find ways to optimize data tasks for efficiency.
+# 👋 Hi, I’m @phulmuhmmad
+
+💻 I'm a **Full-Stack Developer** passionate about building powerful solutions across **Android**, **Web**, **Desktop**, **iOS**, and **Linux** platforms.
+
+---
+
+## 🚀 About Me  
+- 🔧 I specialize in **Flutter**, **Python (Django)**, and **Kotlin** for cross-platform and native development.  
+- 👨‍💻 I’m currently diving deeper into **app development**, **web-based school management systems**, and **data efficiency tools**.  
+- 💡 Also exploring: **ethical hacking**, **NodeMCU**, and **Linux-based automation**.
+
+---
+
+## 🛠️ Skills  
+- **Languages:** Python, Kotlin, Dart, HTML/CSS, JavaScript  
+- **Frameworks/Tools:** Django, Flutter, Firebase, Git, SQLite, REST APIs  
+- **Platforms:** Android, Web, iOS, Linux, Desktop  
+- **Tech Interests:** Embedded systems (NodeMCU), Linux automation, cyber security
+
+---
+
+## 🤝 Let’s Collaborate  
+I'm open to collaborating on:
+- 📱 **Android & Flutter App Development**  
+- 🏫 **School Management Systems (Django-based)**  
+- 🧠 **Smart data tools & automation projects**
+
+---
+
+## 📫 How to Reach Me  
+- ✉️ Email: **phulmuhmmad@gmail.com**  
+- 💼 GitHub: [@phulmuhmmad](https://github.com/phulmuhmmad)
+
+---
+
+## ⚡ Fun Fact  
+I’m always experimenting with new tech stacks and finding smart ways to **automate tasks, optimize workflows**, and make data more actionable.
+
 
